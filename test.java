@@ -13,5 +13,9 @@ class Test
 		System.out.println("Enter the second number :- ");
 		b = sc.nextInt();
 		System.out.println("Sum = " + (a+b));
+		System.out.println("Difference :- " + (a-b));
+		System.out.println("Product :- " + (a*b));
+		System.out.println("Division :- " + (a/b));
+		
 	}
 }
