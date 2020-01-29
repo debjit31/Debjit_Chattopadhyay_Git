@@ -13,5 +13,6 @@ class Test
 		System.out.println("Enter the second number :- ");
 		b = sc.nextInt();
 		System.out.println("Sum = " + (a+b));
+		System.out.println("Modulo Division of the numbers :- " + (a%b));
 	}
 }
